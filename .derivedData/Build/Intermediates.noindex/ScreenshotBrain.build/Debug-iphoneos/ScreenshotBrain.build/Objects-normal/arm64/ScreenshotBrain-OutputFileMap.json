@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrain-primary.dia",
+    "emit-module-dependencies" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrain-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrain-primary-emit-module.dia",
+    "pch" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrain-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrain-primary.swiftdeps"
+  },
+  "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/medha/Desktop/task tracker/ScreenshotBrain/ScreenshotBrain/ContentView.swift" : {
+    "const-values" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/medha/Desktop/task tracker/ScreenshotBrain/ScreenshotBrain/ScreenshotBrainApp.swift" : {
+    "const-values" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrainApp.swiftconstvalues",
+    "dependencies" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrainApp.d",
+    "diagnostics" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrainApp.dia",
+    "index-unit-output-path" : "/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrainApp.o",
+    "llvm-bc" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrainApp.bc",
+    "object" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrainApp.o",
+    "swift-dependencies" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrainApp.swiftdeps",
+    "swiftmodule" : "/Users/medha/Desktop/task tracker/ScreenshotBrain/.derivedData/Build/Intermediates.noindex/ScreenshotBrain.build/Debug-iphoneos/ScreenshotBrain.build/Objects-normal/arm64/ScreenshotBrainApp~partial.swiftmodule"
+  }
+}

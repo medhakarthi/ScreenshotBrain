@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>2E55230D-FB04-4DBD-B5D1-F92919A65D86</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2E55230D-FB04-4DBD-B5D1-F92919A65D86.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ScreenshotBrain project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ScreenshotBrain</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ScreenshotBrain with scheme ScreenshotBrain</string>
+			<key>timeStartedRecording</key>
+			<real>799513995.01965904</real>
+			<key>timeStoppedRecording</key>
+			<real>799514004.16199195</real>
+			<key>title</key>
+			<string>Building project ScreenshotBrain with scheme ScreenshotBrain</string>
+			<key>uniqueIdentifier</key>
+			<string>2E55230D-FB04-4DBD-B5D1-F92919A65D86</string>
+		</dict>
+		<key>4F6C03F2-EB16-480D-ACD9-C4F97BC802B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F6C03F2-EB16-480D-ACD9-C4F97BC802B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ScreenshotBrain project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ScreenshotBrain</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ScreenshotBrain with scheme ScreenshotBrain</string>
+			<key>timeStartedRecording</key>
+			<real>799513963.99214101</real>
+			<key>timeStoppedRecording</key>
+			<real>799513971.29217994</real>
+			<key>title</key>
+			<string>Building project ScreenshotBrain with scheme ScreenshotBrain</string>
+			<key>uniqueIdentifier</key>
+			<string>4F6C03F2-EB16-480D-ACD9-C4F97BC802B1</string>
+		</dict>
+		<key>9BC5D6FC-B88C-44DE-A6C1-3C4529D9F1E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9BC5D6FC-B88C-44DE-A6C1-3C4529D9F1E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ScreenshotBrain project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ScreenshotBrain</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ScreenshotBrain with scheme ScreenshotBrain</string>
+			<key>timeStartedRecording</key>
+			<real>799514197.91410303</real>
+			<key>timeStoppedRecording</key>
+			<real>799514206.98618305</real>
+			<key>title</key>
+			<string>Building project ScreenshotBrain with scheme ScreenshotBrain</string>
+			<key>uniqueIdentifier</key>
+			<string>9BC5D6FC-B88C-44DE-A6C1-3C4529D9F1E0</string>
+		</dict>
+		<key>BD94E45A-9DCF-40D2-A970-F295547BFF0B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD94E45A-9DCF-40D2-A970-F295547BFF0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ScreenshotBrain project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ScreenshotBrain</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ScreenshotBrain with scheme ScreenshotBrain</string>
+			<key>timeStartedRecording</key>
+			<real>799513884.08492696</real>
+			<key>timeStoppedRecording</key>
+			<real>799513921.90929902</real>
+			<key>title</key>
+			<string>Building project ScreenshotBrain with scheme ScreenshotBrain</string>
+			<key>uniqueIdentifier</key>
+			<string>BD94E45A-9DCF-40D2-A970-F295547BFF0B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
