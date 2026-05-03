@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'ScreenshotBrain' in project 'ScreenshotBrain' (no dependencies)
